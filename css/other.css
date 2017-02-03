@@ -1,7 +1,7 @@
 #main{
-  color: green;
+  color: yellow;
 }
-.prime{
+p.prime{
   color: red;
   font-size: 400%;
 }
